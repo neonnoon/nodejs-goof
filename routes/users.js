@@ -2,6 +2,7 @@
 var express = require('express')
 var typeorm = require("typeorm");
 
+const PASSWORD = 'GTFYUm4j6qHAVXg3XMB2QWQdJmHqjvqe';
 var router = express.Router()
 module.exports = router
 
